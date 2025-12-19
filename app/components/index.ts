@@ -1,4 +1,3 @@
-
-export { default as SimpleComponent } from './simple';
+export { default as NumberComponent } from './number-comp';
 export { default as SimpleComponent2 } from './simple2';
-
+export { LikeButton } from './like-button';
