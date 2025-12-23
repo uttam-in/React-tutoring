@@ -5,4 +5,5 @@ export default [
   route("forms", "routes/form-handling.tsx"),
   route("bootstrap", "routes/bootstrap-from.tsx"),
   route("dashboard", "routes/bootstrap-dashboard.tsx"),
+  route("posts", "routes/posts.tsx"),
 ] satisfies RouteConfig;
