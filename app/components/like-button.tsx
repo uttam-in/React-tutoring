@@ -33,7 +33,7 @@ export function LikeButton({ initialLikes = 0, onLike }: LikeButtonProps) {
       onClick={handleClick}
       style={{
         padding: '8px 16px',
-        fontSize: '16px',
+        fontSize: '15px',
         border: 'none',
         borderRadius: '4px',
         cursor: 'pointer',
